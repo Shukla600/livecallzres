@@ -1,0 +1,136 @@
+@media(max-width:992px){
+   
+}
+@media(max-width:991px){
+    .navbar-light .navbar-nav .nav-link{
+        color: #1269b9;
+    }
+    .custom_btn {
+        color: #0c63b2;
+        border: 1px solid #0c63b2;
+    }
+    .baner_text h5{
+        font-size: 32px;
+    }
+    .baner_text p{
+        font-size: 14px;
+    }
+    .livecall_text h5{
+        font-size: 35px;
+    }
+    .livecall_text h4{
+        font-size: 35px;
+    }
+    .livecall_text p{
+        font-size: 13px;
+    }
+    .process_box p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .serviceimg_box {
+        width: 68%;;
+    }
+    .serviceimg_box h5 {
+        font-size: 16px;
+    } 
+    .geticon_box h5 {
+        font-size: 14px;
+        
+    }
+    .footer_logo img {
+        width: 52%;
+    }
+}
+@media(max-width:768px){
+    .navbar-light .navbar-nav .nav-link{
+        color: #1269b9;
+    }
+    .custom_btn {
+        color: #0c63b2;
+        border: 1px solid #0c63b2;
+    }
+    .baner_text {
+        margin-top: 25px;
+    }
+    .baner_text h5{
+        font-size: 32px;
+    }
+    .baner_text p{
+        font-size: 14px;
+    }
+    ul.footer_menu li a{
+        font-size: 14px;
+    }
+    .footer::before {
+        width: 81%;
+    }
+    .footer_logo img {
+        width: 52%;
+    }
+    .accordion-button {
+        font-size: 14px;
+    }
+    .process_box p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .geticon_box h5 {
+        font-size: 14px;
+        
+    }
+    .main_heading h5 {
+        font-size: 35px;
+    }
+    .serviceimg_box {
+        width: 68%;;
+    }
+    .serviceimg_box h5 {
+        font-size: 16px;
+    } 
+    .livecall_text h5{
+        font-size: 35px;
+    }
+    .livecall_text h4{
+        font-size: 35px;
+    }
+    .livecall_text p{
+        font-size: 13px;
+    }
+    .get_box1{
+        height: 35%;
+    }
+    .get_box2{
+        height: 35%;
+    }
+    .get_box1 p{
+        font-size: 14px;
+       
+    }
+    .get_box2 p{
+        font-size: 14px;
+    }
+}
+@media(max-width:575px){
+    .getstarted_img {
+        width: 70%;
+    }
+    .footer_img img {
+        width: 85%;
+    }
+    .footer::before {
+        width: 100%;
+    }
+}
+@media(max-width:425px){
+    .footer::before {
+    background-position: bottom right;
+       
+        width: 143%;
+        height: 152%;
+  
+    }
+    .footer_info a {
+        display: none;
+    }
+}
